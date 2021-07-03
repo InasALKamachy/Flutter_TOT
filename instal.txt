@@ -1,6 +1,8 @@
 sudo apt update 
-sudo snap install android-studio --classic 
+sudo snap install android-studio --classic  // open the android and install fultter plugin and dart
 sudo snap install flutter --classic 
+flutter --version
+flutter doctor
 sudo apt install openjdk-8-jre-headless 
 flutter doctor --android-licenses 
 flutter config --enable-web 

@@ -5,7 +5,7 @@ main(){
   runApp(Flutter001()); //start mobile application
 }
 
-class Flutter001 extends StatelessWidget {   //default widget of flutter which is fixed widget without changes
+class Flutter001 extends StatelessWidget {   //default widget of flutter which is fixed widget without changes, or just type stless and click tap
 
   @override
   Widget build(BuildContext context) {

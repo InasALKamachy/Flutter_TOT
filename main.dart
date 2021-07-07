@@ -41,4 +41,4 @@ class  HomePage extends StatelessWidget {
       );
 
   }
-}
+}  // to arrange the code press Ctrl+Alt+L 

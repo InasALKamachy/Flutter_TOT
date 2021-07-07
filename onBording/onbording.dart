@@ -36,7 +36,7 @@ class _OnBordingState extends State<OnBording> {
                         size: 150,
                         color: Colors.white),
                     offset:Offset(0,-100)),
-                    Text(' Welcome ',
+                    Text(' Inas Al-Kamachy ',
                         style: TextStyle(
                             color: Colors.white,
                             fontSize: 24)),
